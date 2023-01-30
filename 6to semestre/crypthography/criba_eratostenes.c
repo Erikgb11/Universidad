@@ -25,6 +25,6 @@ int main(){
 	}
 
 	printf("\n");
-	printf("Se imprimieron una cantidad de %d numeros primos", c);
+	printf("Se imprime una cantidad de %d numeros primos", c);
     return 0;
 }
