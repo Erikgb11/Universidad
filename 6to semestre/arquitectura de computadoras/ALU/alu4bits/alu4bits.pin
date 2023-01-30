@@ -1,0 +1,21 @@
+Cypress Package: palce22v10-25pc/pi  PinOut File: alu4bits.pin
+
+This file was created on 04/09/2022 at 11:19:42 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+b(3) in <> Enabled Normal 1 <> [Auto] 
+b(2) in <> Enabled Normal 2 <> [Auto] 
+b(1) in <> Enabled Normal 3 <> [Auto] 
+a(2) in <> Enabled Normal 4 <> [Auto] 
+sel(2) in <> Enabled Normal 5 <> [Auto] 
+sel(1) in <> Enabled Normal 6 <> [Auto] 
+sel(0) in <> Enabled Normal 7 <> [Auto] 
+b(0) in <> Enabled Normal 8 <> [Auto] 
+a(3) in <> Enabled Normal 9 <> [Auto] 
+a(1) in <> Enabled Normal 10 <> [Auto] 
+a(0) in <> Enabled Normal 11 <> [Auto] 
+o(3) out <> Enabled Normal 15 <> [Auto] 
+o(1) out <> Enabled Normal 16 <> [Auto] 
+o(0) out <> Enabled Normal 21 <> [Auto] 
+o(2) out <> Enabled Normal 22 <> [Auto] 

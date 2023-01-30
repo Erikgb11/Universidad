@@ -1,0 +1,2 @@
+ALU.vhd #Entity entalu3bits 7
+ALU.vhd #Architecture arqalu3bits entalu3bits 17

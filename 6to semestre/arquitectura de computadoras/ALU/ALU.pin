@@ -1,0 +1,18 @@
+Cypress Package: palc22v10-25pc/pi  PinOut File: ALU.pin
+
+This file was created on 03/28/2022 at 13:36:56 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+b(2) in <> Enabled Normal 1 <> [Auto] 
+a(2) in <> Enabled Normal 2 <> [Auto] 
+oper(1) in <> Enabled Normal 3 <> [Auto] 
+oper(0) in <> Enabled Normal 4 <> [Auto] 
+b(1) in <> Enabled Normal 5 <> [Auto] 
+b(0) in <> Enabled Normal 6 <> [Auto] 
+a(1) in <> Enabled Normal 7 <> [Auto] 
+a(0) in <> Enabled Normal 8 <> [Auto] 
+result(3) out <> Enabled Normal 14 <> [Auto] 
+result(2) out <> Enabled Normal 16 <> [Auto] 
+result(1) out <> Enabled Normal 17 <> [Auto] 
+result(0) out <> Enabled Normal 23 <> [Auto] 
