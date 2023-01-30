@@ -1,0 +1,18 @@
+n = 0:30;
+f = 0.1;
+Amax = 4;
+phimax = 2*pi;
+rand('state',sum(100*clock));
+A = Amax*rand;
+phi = phimax*rand;
+arg = 2*pi*f*n + phi;
+x = A*cos(arg);
+clf;
+stem(n,x); 
+Ylim = round(2*(Amax+0.5))/2;
+axis([0 length(n) -Ylim Ylim]);
+grid; 
+title('Sinusoidal Sequence with Random Amplitude and Phase');
+xlabel('Time index n');
+ylabel('Amplitude');
+axis;
