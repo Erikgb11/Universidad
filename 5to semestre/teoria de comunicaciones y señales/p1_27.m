@@ -1,0 +1,15 @@
+n = 0:74;
+xmean = 0;
+xstd = sqrt(3); 
+randn('state',sum(100*clock)); 
+x = xstd*randn(1,length(n)) + xmean;
+clf;
+stem(n,x); 
+xmax = max(abs(x));
+Ylim = round(2*(xmax+0.5))/2;
+axis([0 length(n) -Ylim Ylim]);
+grid; 
+title('Gaussian Random Sequence');
+xlabel('Time index n');
+ylabel('Amplitude');
+axis;
