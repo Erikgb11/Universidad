@@ -155,7 +155,7 @@ int main(){
 		}
 		printf("\n");
 	}
-	printf("Y finalmente el resultado de la multiplicacion es:\n");//el resultado
+	printf("Y el resultado de la multiplicacion es:\n");//el resultado
 	for(int i=0;i<4;i++){
 		for(int j=0;j<4;j++){
 			printf("%X ",res[i][j]);
