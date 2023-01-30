@@ -1,0 +1,7 @@
+ENTITY dec2to4 IS
+    PORT (
+	a : in std_logic_vector (1 downto 0) ; 
+	e : in std_logic  ; 
+	o : inout std_logic_vector (3 downto 0)
+    ) ;
+END dec2to4 ;

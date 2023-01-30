@@ -1,0 +1,2 @@
+2to4.vhd #Entity dec2to4 3
+2to4.vhd #Architecture dec dec2to4 8
